@@ -1,7 +1,11 @@
-__pycache__/
-*.pyc
 *.egg-info/
+*.pyc
+.env
+.env.*
+.venv/
+__pycache__/
 build/
 dist/
-.venv/
+dist/*.tmp
+node_modules/
 plan.md
