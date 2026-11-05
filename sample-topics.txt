@@ -1,0 +1,10 @@
+- what is AI (in plain words)
+- why AI is useful for everyday life
+- getting started with a chat assistant
+- asking better questions (prompts)
+- reading and checking AI answers
+- having AI help with everyday emails
+- custom instructions and preferences
+- using an API to automate small tasks
+- deploying an AI workflow for real
+- advanced automation with scripts
